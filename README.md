@@ -1,0 +1,2 @@
+# image_filtering_software_based_on_Qt
+基于Qt和opencv的图像滤波软件
