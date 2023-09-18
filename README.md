@@ -1,7 +1,7 @@
 # image_filtering_software_based_on_Qt
 很早之前做的一个基于Qt和opencv的图像滤波软件.
 
-这也是我在网上接的一个bishe项目, 任务指导书上是这样写的:
+这也是我在网上接的一个项目, 项目需求是这样写的:
 
 <div style="text-align: center">
 <img src="./assets/%E5%AE%A2%E6%88%B7%E9%9C%80%E6%B1%82.jpg"/>
